@@ -1,4 +1,4 @@
-# EXP-4
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/f1749a5c-31af-491b-9410-17b33d429db6" /># EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
@@ -37,15 +37,29 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/0454098e-e2e3-4d0e-adad-b3c021e04858" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/9d1cda5e-f005-41c1-94a4-a8914fadef6f" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/3827618c-bd82-4a54-b98f-c717a56591b8" />
+
 
 Bridge rectifier with filter:
+<img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/9341fe37-04c8-4ad0-8558-a68241a541bf" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/6ad60088-8237-4331-a777-3f0e0a48bf8c" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/0887a735-588b-4f75-8ac1-8951987bc7bc" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+TABULAR COLUMN:
+Half wave Rectifier with and without filter:
+<img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/f7ae1154-6c6a-4822-826c-6057e0ec408d" />
 
-WAVEFORM:
+TABULAR COLUMN:
+Bridge wave Rectifier with and without filter:
+<img width="1280" height="1126" alt="image" src="https://github.com/user-attachments/assets/7928079a-f057-47d5-b846-414e5361c3ac" />
+
+GRAPH:
+Half wave:
+<img width="959" height="1280" alt="image" src="https://github.com/user-attachments/assets/27e6328e-c22c-4cbb-a86a-94849b04fe89" />
+Bridge wave:
+<img width="950" height="1280" alt="image" src="https://github.com/user-attachments/assets/7525dc00-8d50-4e21-a359-8e9e37f524ff" />
 
 
 RESULT:
